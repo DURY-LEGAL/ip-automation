@@ -1,0 +1,24 @@
+{
+  "name": "ip-automation",
+  "version": "0.1.0",
+  "description": "IP automation toolkit - Automate intellectual property workflows. Powered by DURY LEGAL.",
+  "keywords": [
+    "ip",
+    "automation",
+    "intellectual-property",
+    "workflow",
+    "legal-tech",
+    "dury-legal"
+  ],
+  "author": "DURY LEGAL Rechtsanwaelte <info@dury.de> (https://www.dury.de)",
+  "license": "MIT",
+  "homepage": "https://www.dury.de",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DURY-LEGAL/ip-automation.git"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 'Tests coming soon'"
+  }
+}
